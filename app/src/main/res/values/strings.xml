@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">thi</string>
+    <string-array name="spn_values">
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Russia</item>
+        <item>Laos</item>
+        <item>Denmark</item>
+    </string-array>
+</resources>
